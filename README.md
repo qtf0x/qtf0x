@@ -1,5 +1,5 @@
-vim supremecist
+support open-source software (and hardware) by USING IT
 
-arch btw-ist
+support your local catgirl/arch user by PETTING THEM
 
-obnoxious pedant :3
+support the woke agenda by finding the nearest transphobe and BULLYING THEM
