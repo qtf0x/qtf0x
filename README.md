@@ -1,4 +1,4 @@
-support open-source software (and hardware) by USING IT
+support open-source software (and hardware) projects by USING THEM
 
 support your local catgirl/arch user by PETTING THEM
 
