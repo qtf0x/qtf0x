@@ -1,1 +1,1 @@
-
+This account only exists for contributions now. I got tired of Microsoft eating my data without permission, and so all future work on personal projects will occur [here](https://git.gay/qtf0x/) and [here](https://codeberg.org/qtf0x/). If you value freedom, you should also consider moving off of GitHub.
