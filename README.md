@@ -6,4 +6,4 @@ freedom](https://www.gnu.org/philosophy/free-sw.en.html)) software. As you may h
 Nothing I've ever written or ever will write was generated, in part or in
 whole, by AI tools.
 
-Donate to the [Trevor Project](https://give.thetrevorproject.org/campaign/798480/donate/)!
+Donate to the [Trevor Project](https://give.thetrevorproject.org)!
